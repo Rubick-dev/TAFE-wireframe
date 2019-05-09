@@ -1,0 +1,47 @@
+body {
+  margin: 50px;
+  min-width: 900px;
+}
+
+#logotext {
+  font-size: 2rem;
+}
+
+.contentA {
+  padding-top: 50px;
+}
+
+.contentB {
+  padding-top: 50px;
+  height: 200px;
+}
+
+.sidePicture {
+  margin: 10px;
+}
+
+#inputBox {
+  height: 100px;
+}
+
+.textA {
+  padding: 5px 20px;
+}
+
+.inputSubmit {
+  padding-top:20px;
+}
+
+.navbar-nav > li{
+  padding-left:30px;
+  padding-right:30px;
+}
+
+.navbar-nav > li:first-child {
+  margin-left: 50px;
+}
+
+#inputGroup-sizing-default {
+  margin-top: 30px;
+  margin-left: 30px;
+}

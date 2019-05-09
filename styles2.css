@@ -1,0 +1,52 @@
+body {
+  margin: 50px;
+  min-width: 600px;
+}
+
+#logotext {
+  font-size: 2rem;
+}
+
+.contentC {
+  padding-top: 30px;
+}
+
+.contentD {
+  padding-top: 50px;
+}
+
+.contentE {
+  padding-top: 50px;
+}
+
+.textA {
+  padding: 5px 20px;
+}
+
+#inputBox {
+  height: 100px;
+}
+
+.navbar-nav > li{
+  padding-left:30px;
+  padding-right:30px;
+}
+
+.navbar-nav > li:first-child {
+  margin-left: 50px;
+}
+
+h1 {
+  margin-left: 20px;
+}
+
+h4 {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+
+.inlineSet {
+  display: inline-block;
+  Margin: 10px 15px;
+}
